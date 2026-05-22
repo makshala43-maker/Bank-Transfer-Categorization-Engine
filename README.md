@@ -1,4 +1,4 @@
-# FinTech Transaction Categorization API 🏦🤖
+# FinTech Transaction Categorization API 
 An end-to-end Machine Learning project designed to automatically categorize raw bank transfer titles into standardized expense categories. Built as a complete pipeline from synthetic data generation and model training to MLOps containerization and API deployment.
 
 ## Project Overview
